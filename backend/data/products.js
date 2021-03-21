@@ -1,9 +1,8 @@
 const products = [
 {
-    _id:'1',
-    name_product :'Watermelons',
+    name :'Watermelons',
     image :"/images/watermelon-many.jpeg",
-    owner :'Amazon',
+    brand :'Amazon',
     description:
     "افضل انواع البطيخ",
     category:"Fruit",
@@ -13,10 +12,9 @@ const products = [
     numReviews:4,
 },
 {
-    _id:'2',
-    name_product :'Onions',
+    name:'Onions',
     image :"/images/onions.jpeg",
-    owner :'google',
+    brand :'google',
     description:
     "افضل انواع البصل",
     category:"Vegetable",
@@ -26,10 +24,9 @@ const products = [
     numReviews:3,
 },
 {
-    _id:'3',
-    name_product :'tomatoes',
+    name :'tomatoes',
     image :"/images/tomatoes.jpeg",
-    owner :'google',
+    brand :'google',
     description:
     "افضل انواع الطماطم",
     category:"Vegetable",
@@ -39,10 +36,9 @@ const products = [
     numReviews:2,
 },
 {
-    _id:'4',
-    name_product :'tomatoes',
+    name :'tomatoes',
     image :"/images/tomatoes.jpeg",
-    owner :'google',
+    brand :'google',
     description:
     "افضل انواع الطماطم",
     category:"Vegetable",
@@ -52,10 +48,10 @@ const products = [
     numReviews:2,
 },
 {
-    _id:'5',
-    name_product :'tomatoes',
+
+    name :'tomatoes',
     image :"/images/tomatoes.jpeg",
-    owner :'google',
+    brand :'google',
     description:
     "افضل انواع الطماطم",
     category:"Vegetable",
@@ -65,10 +61,9 @@ const products = [
     numReviews:2,
 },
 {
-    _id:'6',
-    name_product :'tomatoes',
+    name:'tomatoes',
     image :"/images/tomatoes.jpeg",
-    owner :'google',
+    brand :'google',
     description:
     "افضل انواع الطماطم",
     category:"Vegetable",
@@ -78,10 +73,9 @@ const products = [
     numReviews:2,
 },
 {
-    _id:'7',
-    name_product :'tomatoes',
+    name :'tomatoes',
     image :"/images/tomatoes.jpeg",
-    owner :'google',
+    brand :'google',
     description:
     "افضل انواع الطماطم",
     category:"Vegetable",
@@ -91,10 +85,9 @@ const products = [
     numReviews:2,
 },
 {
-    _id:'8',
-    name_product :'tomatoes',
+    name :'tomatoes',
     image :"/images/tomatoes.jpeg",
-    owner :'google',
+    brand :'google',
     description:
     "افضل انواع الطماطم",
     category:"Vegetable",
@@ -104,10 +97,9 @@ const products = [
     numReviews:2,
 },
 {
-    _id:'9',
-    name_product :'tomatoes',
+    name :'tomatoes',
     image :"/images/tomatoes.jpeg",
-    owner :'google',
+    brand :'google',
     description:
     "افضل انواع الطماطم",
     category:"Vegetable",
@@ -117,10 +109,9 @@ const products = [
     numReviews:2,
 },
 {
-    _id:'10',
-    name_product :'tomatoes',
+    name :'tomatoes',
     image :"/images/tomatoes.jpeg",
-    owner :'google',
+    brand :'google',
     description:
     "افضل انواع الطماطم",
     category:"Vegetable",
@@ -130,10 +121,9 @@ const products = [
     numReviews:2,
 },
 {
-    _id:'11',
-    name_product :'tomatoes',
+    name :'tomatoes',
     image :"/images/tomatoes.jpeg",
-    owner :'google',
+    brand :'google',
     description:
     "افضل انواع الطماطم",
     category:"Vegetable",
@@ -143,12 +133,10 @@ const products = [
     numReviews:2,
 },
 {
-    _id:'12',
-    name_product :'tomatoes',
+    name :'tomatoes',
     image :"/images/tomatoes.jpeg",
-    owner :'google',
-    description:
-    "افضل انواع الطماطم",
+    brand :'google',
+    description:"افضل انواع الطماطم",
     category:"Vegetable",
     price:9.9,
     countInstock: 2,
